@@ -1,0 +1,20 @@
+{
+    "bikes": [
+      {
+        "brand": "Honda",
+        "model": "CBR600RR",
+        "year": 2022
+      },
+      {
+        "brand": "Yamaha",
+        "model": "YZF-R6",
+        "year": 2021
+      },
+      {
+        "brand": "Kawasaki",
+        "model": "Ninja ZX-6R",
+        "year": 2023
+      }
+    ]
+  }
+  
